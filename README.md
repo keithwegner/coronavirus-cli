@@ -1,5 +1,7 @@
 ## Corona Statistics CLI
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/501b6a840cc04e678ff4f883061a028b)](https://app.codacy.com/manual/keithwegner/coronavirus-cli?utm_source=github.com&utm_medium=referral&utm_content=keithwegner/coronavirus-cli&utm_campaign=Badge_Grade_Dashboard)
+
 Get the latest coronavirus statistics directly from the CLI.
 
 > Please make sure that you have `Python 3` up and running on your machine.
