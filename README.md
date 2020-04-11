@@ -5,7 +5,6 @@
 
 ## Corona Statistics CLI
 
-
 Get the latest coronavirus statistics directly from the CLI.
 
 > Please make sure that you have `Python 3` up and running on your machine.
