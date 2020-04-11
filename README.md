@@ -1,8 +1,9 @@
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ahmadmayahi/coronavirus-cli) 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/501b6a840cc04e678ff4f883061a028b)](https://app.codacy.com/manual/keithwegner/coronavirus-cli?utm_source=github.com&utm_medium=referral&utm_content=keithwegner/coronavirus-cli&utm_campaign=Badge_Grade_Dashboard)
+[![Run on Repl.it](https://repl.it/badge/github/keithwegner/coronavirus-cli)](https://repl.it/github/keithwegner/coronavirus-cli)
 
 ## Corona Statistics CLI
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/501b6a840cc04e678ff4f883061a028b)](https://app.codacy.com/manual/keithwegner/coronavirus-cli?utm_source=github.com&utm_medium=referral&utm_content=keithwegner/coronavirus-cli&utm_campaign=Badge_Grade_Dashboard)[![Run on Repl.it](https://repl.it/badge/github/keithwegner/coronavirus-cli)](https://repl.it/github/keithwegner/coronavirus-cli)
 
 Get the latest coronavirus statistics directly from the CLI.
 
